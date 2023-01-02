@@ -6,9 +6,9 @@ Thanks for visiting my github page. My repos focus on machine learning, statisti
 
 * python: [statsmodels](https://www.statsmodels.org/stable/index.html) provides classes and functions for the estimation of many different statistical models.
 * R: [dann](https://github.com/gmcmacran/dann) is an implementation of Hastie and Tibshirani’s Discriminant Adaptive Nearest Neighbor Classification.
-* python: [glm_irls](https://github.com/gmcmacran/glm_irls) is an implementates of generalized linear models from the ground up using numpy.
+* python: [glm_irls](https://github.com/gmcmacran/glm_irls) is an implementation of generalized linear models from the ground up using numpy.
 * R: [extendedFamily](https://github.com/gmcmacran/extendedFamily) adds new links to R’s generalized linear models.
-* python: [coord-descent-glm](https://github.com/gmcmacran/coord-descent-glm) is an implementation of generalized linear models using coordant descent and functional programming.
+* python: [coord-descent-glm](https://github.com/gmcmacran/coord-descent-glm) is an implementation of generalized linear models using coordinate descent and functional programming.
 * python: [tensorflow](https://github.com/gmcmacran/tensorflow) contains example code of tensorflow models.
 * python: [aws_docker_py](https://github.com/gmcmacran/aws_docker_py) is a containerized model in AWS. 
 
@@ -18,7 +18,7 @@ Thanks for visiting my github page. My repos focus on machine learning, statisti
 
 ### Simulation Studies
 
-* R: [TypeOneTypeTwoSim](https://github.com/gmcmacran/TypeOneTypeTwoSim) is simulation of type I error rates, type II error rates, and coverage rates of functions in LRTesteR. 
+* R: [TypeOneTypeTwoSim](https://github.com/gmcmacran/TypeOneTypeTwoSim) is a simulation of type I error rates, type II error rates, and coverage rates of functions in LRTesteR. 
 * R: [normalTestsCompare](https://github.com/gmcmacran/normalTestsCompare) compares power of Gaussian goodness of fit tests. 
 
 ### Data Creation
