@@ -1,15 +1,15 @@
 ### Hello
 
-Thanks for visiting my github. My repos focus on machine learning, statistics, functional programming, puzzle solving, and notes to myself. I tend to program in either python or R. Some repos are published outside of github. Others are pet projects.
+Thanks for visiting my github page. My repos focus on machine learning, statistics, functional programming, puzzle solving, and notes to myself. I tend to program in either python or R. Some repos are published outside of github. Others are pet projects.
 
 ### Machine Learning
 
-* python: [statsmodels](https://github.com/statsmodels/statsmodels])
+* python: [statsmodels](https://www.statsmodels.org/stable/index.html) provides classes and functions for the estimation of many different statistical models.
 * R: [dann](https://github.com/gmcmacran/dann) is an implementation of Hastie and Tibshirani’s Discriminant Adaptive Nearest Neighbor Classification.
-python: [glm_irls](https://github.com/gmcmacran/glm_irls) is an implementation of generalized linear models using iterative reweighted least squares and O.O.P.
+* python: [glm_irls](https://github.com/gmcmacran/glm_irls) is an implementates of generalized linear models from the grond up using numpy.
 * R: [extendedFamily](https://github.com/gmcmacran/extendedFamily) adds new links to R’s generalized linear models.
 * python: [coord-descent-glm](https://github.com/gmcmacran/coord-descent-glm) is an implementation of generalized linear models using coordant descent and functional programming.
-* python: [tensorflow](https://github.com/gmcmacran/tensorflow) is example tensorflow models.
+* python: [tensorflow](https://github.com/gmcmacran/tensorflow) contains example code of tensorflow models.
 * python: [aws_docker_py](https://github.com/gmcmacran/aws_docker_py) is a containerized model in AWS. 
 
 ### Hypothesis Testing
@@ -28,8 +28,8 @@ python: [glm_irls](https://github.com/gmcmacran/glm_irls) is an implementation o
 
 ### Functional Programming
 
-* R: [functional_playground](https://github.com/gmcmacran/functional_playground) is odds and ends of functional programming ideas.
-* R: [altForm](https://github.com/gmcmacran/altForm) is alternative formulations of statistical functions.
+* R: [functional_playground](https://github.com/gmcmacran/functional_playground) contains odds and ends of functional programming ideas.
+* R: [altForm](https://github.com/gmcmacran/altForm) contains alternative formulations of statistical functions.
 
 ### Puzzle Solving
 
