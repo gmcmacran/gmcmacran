@@ -9,8 +9,9 @@ Thanks for visiting my github page. My repos focus on machine learning, statisti
 * python: [glm_irls](https://github.com/gmcmacran/glm_irls) is an implementation of generalized linear models from the ground up using numpy.
 * R: [extendedFamily](https://github.com/gmcmacran/extendedFamily) adds new links to R’s generalized linear models.
 * python: [coord-descent-glm](https://github.com/gmcmacran/coord-descent-glm) is an implementation of generalized linear models using coordinate descent and functional programming.
-* python: [tensorflow](https://github.com/gmcmacran/tensorflow) contains example code of tensorflow models.
+* python: [tensorflow](https://github.com/gmcmacran/tensorflow) contains examples of a generative adversarial network, transfer learning, data augmentation and a residual connection.
 * python: [aws_docker_py](https://github.com/gmcmacran/aws_docker_py) is a containerized model in AWS. 
+* python: [semi_supervised](https://github.com/gmcmacran/semi_supervised) explores the usefulness of semi-supervised machine learning.
 
 ### Hypothesis Testing
 
