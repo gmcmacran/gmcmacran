@@ -40,3 +40,4 @@ Thanks for visiting my github page. My repos focus on machine learning, statisti
 
 * R: [glm_notes](https://github.com/gmcmacran/glm_notes) is a collection of notes about generalized linear models. 
 * python: [interviewQuestions](https://github.com/gmcmacran/interviewQuestions) is a collection of technical programming questions I have been asked during data science interviews.
+* python: [conda_environments](https://github.com/gmcmacran/conda_environments) contains conda commands for my typical conda environments. 
