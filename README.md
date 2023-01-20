@@ -10,7 +10,7 @@ Thanks for visiting my github page. My repos focus on machine learning, statisti
 * R: [extendedFamily](https://github.com/gmcmacran/extendedFamily) adds new links to R’s generalized linear models.
 * python: [coord-descent-glm](https://github.com/gmcmacran/coord-descent-glm) is an implementation of generalized linear models using coordinate descent and functional programming.
 * python: [tensorflow](https://github.com/gmcmacran/tensorflow) contains examples of 
-    + Two versions of a generative adversarial network
+    + two versions of a generative adversarial network
     + transfer learning 
     + data augmentation
     + functional A.P.I. with a residual connection
