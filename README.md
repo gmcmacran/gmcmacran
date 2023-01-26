@@ -39,6 +39,10 @@ Thanks for visiting my github page. My repos focus on machine learning, statisti
 ### Puzzle Solving
 
 * python: [backtracking](https://github.com/gmcmacran/backtracking) solving puzzles using backtracking algorithms.
+	+ Sudoku puzzles
+	+ Knights tour problem
+	+ N queens problem
+	+ Pizza Hut's pi day challenge.
 
 ### Notes
 
