@@ -6,8 +6,9 @@ Thanks for visiting my github page. My repos focus on machine learning, statisti
 
 * python: [statsmodels](https://www.statsmodels.org/stable/index.html) provides classes and functions for the estimation of many different statistical models.
 * R: [dann](https://github.com/gmcmacran/dann) is an implementation of Hastie and Tibshirani’s Discriminant Adaptive Nearest Neighbor Classification.
-* python: [glm_irls](https://github.com/gmcmacran/glm_irls) is an implementation of generalized linear models from the ground up using numpy.
+* python: [microsoftLTR](https://github.com/gmcmacran/microsoftLTR) trains a M.L. model that directly optimizes gain.
 * R: [extendedFamily](https://github.com/gmcmacran/extendedFamily) adds new links to R’s generalized linear models.
+* python: [glm_irls](https://github.com/gmcmacran/glm_irls) is an implementation of generalized linear models from the ground up using numpy.
 * python: [coord-descent-glm](https://github.com/gmcmacran/coord-descent-glm) is an implementation of generalized linear models using coordinate descent and functional programming.
 * python: [tensorflow](https://github.com/gmcmacran/tensorflow) contains examples of 
     + two versions of a generative adversarial network
