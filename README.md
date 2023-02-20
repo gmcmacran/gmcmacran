@@ -17,7 +17,7 @@ Thanks for visiting my github page. My repos focus on machine learning, statisti
     + functional A.P.I. with a residual connection
     + auto encoder
 * python: [aws_docker_py](https://github.com/gmcmacran/aws_docker_py) is a containerized model in AWS. 
-* python: [semi_supervised](https://github.com/gmcmacran/semi_supervised) explores the usefulness of semi-supervised machine learning.
+* python: [semi_supervised_two](https://github.com/gmcmacran/semi_supervised_two) explores the usefulness of semi-supervised machine learning.
 
 ### Hypothesis Testing
 
