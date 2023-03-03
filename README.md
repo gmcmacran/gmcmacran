@@ -1,6 +1,6 @@
 ### Hello
 
-Thanks for visiting my github page. My repos focus on machine learning, statistics, functional programming, puzzle solving, and notes to myself. I tend to program in either python or R. Some repos full-fledged data science tools and are published outside of github. Others are pet projects.
+Thanks for visiting my github page. My repos focus on machine learning, statistics, functional programming, puzzle solving, and notes to myself. I tend to program in either python or R. Some repos are full-fledged data science tools and are published outside of github. Others are pet projects.
 
 ### Machine Learning
 
