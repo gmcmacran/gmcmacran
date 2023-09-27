@@ -6,7 +6,7 @@ Thanks for visiting my github page. My repos focus on machine learning, statisti
 
 * python: [statsmodels](https://www.statsmodels.org/stable/index.html) provides classes and functions for the estimation of many different statistical models.
 * R: [dann](https://github.com/gmcmacran/dann) is an implementation of Hastie and Tibshirani’s Discriminant Adaptive Nearest Neighbor Classification.
-* R: [tidy_dann](https://github.com/gmcmacran/tidydann) adds the 'dann' model and the 'sub_dann' model to the Tidymodels ecosystem.
+* R: [tidydann](https://github.com/gmcmacran/tidydann) adds the 'dann' model and the 'sub_dann' model to the Tidymodels ecosystem.
 * python: [microsoftLTR](https://github.com/gmcmacran/microsoftLTR) trains a M.L. model that directly optimizes gain.
 * R: [survivoR](https://github.com/gmcmacran/survivoR) builds time to event models.
 * python: [anomaly_detection](https://github.com/gmcmacran/anomaly_detection) trains multiple anomaly detection models on a simulated dataset.
