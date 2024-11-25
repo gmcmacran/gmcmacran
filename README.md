@@ -31,6 +31,7 @@ Thanks for visiting my github page. My repos focus on machine learning, statisti
 ### Simulation Studies
 
 * R: [TypeOneTypeTwoSim](https://github.com/gmcmacran/TypeOneTypeTwoSim) is a simulation of type I error rates, type II error rates, and coverage rates of functions in LRTesteR.
+* R: [geometric_likelihood_ratio ](https://github.com/gmcmacran/geometric_likelihood_ratio) explores a distribution where asymptotic theory does not apply. 
 * R: [calibration](https://github.com/gmcmacran/calibration) studys calibration of p values from likelihood ratio tests when sample size is small.
 * R: [normalTestsCompare](https://github.com/gmcmacran/normalTestsCompare) compares power of Gaussian goodness of fit tests. 
 * R: [muTestsCompare](https://github.com/gmcmacran/muTestsCompare) compares nonparametric tests for mu. 
