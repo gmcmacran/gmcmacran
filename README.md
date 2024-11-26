@@ -36,6 +36,7 @@ Thanks for visiting my github page. My repos focus on machine learning, statisti
 * R: [normalTestsCompare](https://github.com/gmcmacran/normalTestsCompare) compares power of Gaussian goodness of fit tests. 
 * R: [muTestsCompare](https://github.com/gmcmacran/muTestsCompare) compares nonparametric tests for mu. 
 * R: [medianTestsCompare](https://github.com/gmcmacran/medianTestsCompare) compares nonparametric tests for the median.
+* R: [bayesian_p_values](https://github.com/gmcmacran/bayesian_p_values) studies how changing the prior distribution's parameters affects p value calculations.
 
 ### Data Creation
 
