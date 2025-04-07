@@ -13,6 +13,7 @@ My repos focus on machine learning, statistics, functional programming, puzzle s
 
 -   python: [microsoftLTR](https://github.com/gmcmacran/microsoftLTR) trains a M.L. model that directly optimizes gain.
 -   R: [survivoR](https://github.com/gmcmacran/survivoR) builds time to event models.
+-   python: [time_series_M4](https://github.com/gmcmacran/time_series_M4) compares multiple models using the M4 dataset.
 -   python: [translator](https://github.com/gmcmacran/translator) translates English to Spanish with tensorflow.
 -   python: [semi_supervised_two](https://github.com/gmcmacran/semi_supervised_two) explores the usefulness of semi-supervised machine learning.
 -   python: [anomaly_detection](https://github.com/gmcmacran/anomaly_detection) trains multiple anomaly detection models on a simulated dataset.
