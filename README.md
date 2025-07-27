@@ -23,12 +23,18 @@ My repos focus on machine learning, statistics, functional programming, puzzle s
 -   python: [glm_irls](https://github.com/gmcmacran/glm_irls) is an implementation of generalized linear models from the ground up using numpy.
 -   python: [coord-descent-glm](https://github.com/gmcmacran/coord-descent-glm) is an implementation of generalized linear models using coordinate descent and functional programming.
 
+### Hypothesis Testing
+
+-   R: [LRTesteR](https://github.com/gmcmacran/LRTesteR) is a collection of hypothesis tests and confidence intervals based on the likelihood ratio.
+-   R: [TypeOneTypeTwoSim](https://github.com/gmcmacran/TypeOneTypeTwoSim) is a simulation of asymptotic type I error rates, type II error rates, and coverage rates of functions in LRTesteR.
+-   R: [calibration](https://github.com/gmcmacran/calibration) studys calibration of p values from likelihood ratio tests when sample size is small.
+-   R: [geometric_likelihood_ratio](https://github.com/gmcmacran/geometric_likelihood_ratio) explores a distribution where asymptotic theory does not apply.
+
 ### Simulation Studies
 
--   R: [TypeOneTypeTwoSim](https://github.com/gmcmacran/TypeOneTypeTwoSim) is a simulation of type I error rates, type II error rates, and coverage rates of functions in LRTesteR.
--   R: [geometric_likelihood_ratio](https://github.com/gmcmacran/geometric_likelihood_ratio) explores a distribution where asymptotic theory does not apply.
--   R: [calibration](https://github.com/gmcmacran/calibration) studys calibration of p values from likelihood ratio tests when sample size is small.
 -   R: [normalTestsCompare](https://github.com/gmcmacran/normalTestsCompare) compares power of Gaussian goodness of fit tests.
+-   R: [medianTestsCompare](https://github.com/gmcmacran/medianTestsCompare) compares the sign test to the empirical likelihood quantile test.
+-   R: [muTestsCompare](https://github.com/gmcmacran/muTestsCompare) compares the wilcoxon rank sum to the empirical likelihood test for the mean.
 -   R: [bayesian_p_values](https://github.com/gmcmacran/bayesian_p_values) studies how changing the prior distribution's parameters affects p value calculations.
 
 ### Functional Programming
