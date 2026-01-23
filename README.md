@@ -1,4 +1,4 @@
-My repos focus on machine learning, statistics, functional programming, puzzle solving, and notes to myself. I program in python and R. Some repos are full-fledged data science tools and are published outside of github. Others are pet projects.
+My repos focus on machine learning, statistics, functional programming, puzzle solving, and notes to myself. I program in python and R. Some repos are full-fledged data science tools and are published outside of github. Others are personal projects.
 
 ### Open Source
 
