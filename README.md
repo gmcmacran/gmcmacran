@@ -52,5 +52,7 @@ My repos focus on machine learning, statistics, functional programming, puzzle s
 ### Notes
 
 -   R: [glm_notes](https://github.com/gmcmacran/glm_notes) is a collection of notes about generalized linear models.
+-   python: [pip_package](https://github.com/gmcmacran/pip_package) is a simple python package with software development best practices.
 -   pencil: [proofs](https://github.com/gmcmacran/proofs) is a collection of math proofs.
 -   Steam Deck: [dg2_steam_deck](https://github.com/gmcmacran/dg2_steam_deck) contains scrips for getting community maps for defense grid two maps working on steam deck.
+
