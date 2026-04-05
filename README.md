@@ -3,6 +3,7 @@ My repos focus on machine learning, statistics, functional programming, puzzle s
 ### Open Source
 
 -   python: [statsmodels](https://www.statsmodels.org/stable/index.html) provides classes and functions for the estimation of many different statistical models.
+-   python: [gpu_glm](https://pypi.org/project/gpu-glm/#description) regularized GLM models running on a GPU.
 -   R: [dann](https://github.com/gmcmacran/dann) is an implementation of Hastie and Tibshirani’s Discriminant Adaptive Nearest Neighbor Classification.
 -   R: [tidydann](https://github.com/gmcmacran/tidydann) adds the 'dann' model and the 'sub_dann' model to the Tidymodels ecosystem.
 -   R: [extendedFamily](https://github.com/gmcmacran/extendedFamily) adds new links to R’s generalized linear models.
